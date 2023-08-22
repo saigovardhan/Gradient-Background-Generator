@@ -36,5 +36,4 @@ Contributions are welcome! If you have ideas for improvements or want to fix any
 
 
 ---
-
-Feel free to use this README as a template for your project. Personalize the content to accurately describe your Gradient Background Generator project. Happy coding and enjoy creating beautiful gradients!
+Happy coding and enjoy creating beautiful gradients!
